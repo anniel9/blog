@@ -1,12 +1,13 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/"
-title = "Hugo 主题 MemE"
+baseURL = "https://blog.bannetta.com/"
+title = "annie's blog"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+# copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+copyright = ""
 
 # 主题选择
 theme = "meme"
@@ -34,7 +35,7 @@ footnoteReturnLinkContents = "↩"
 enableGitInfo = false
 
 # 是否生成 robots.txt 文件
-enableRobotsTXT = true
+enableRobotsTXT = flase
 
 # 每一分页的文章数（仅对「文章摘要」首页布局有效）
 paginate = 5
@@ -51,7 +52,7 @@ uglyURLs = false
 
 # 类别
 [taxonomies]
-    category = "categories"
+    # category = "categories"
     tag = "tags"
 
 # 修改时间
@@ -96,17 +97,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "annie"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = ""
     # 座右铭或简介
     motto = "Viva La Vida"
     # 头像
-    avatar = "/icons/apple-touch-icon.png"
+    avatar = "/icons/avatar.jpeg"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://blog.bannetta.com/"
     # 推特
-    twitter = "reuixiy"
+    twitter = ""
 
 # 相关文章
 [related]
@@ -338,16 +339,16 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "这是我的个人博客"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2022-05-22T10:00:00+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    siteTwitter = ""
     # 说明：用于 Twitter Cards
 
 
@@ -368,7 +369,7 @@ uglyURLs = false
     # 的树状分类，故如需保留树状分类，建议适应
     # Hugo 的设计理念——分区。
 
-    categoryBy = "categories"
+    categoryBy = "sections"
     # 注意：如果你设置为 `sections`，请务必将
     #      此配置文件中的类别（taxonomies）中
     #      的 `categories` 删除，不然分类页
@@ -431,7 +432,7 @@ uglyURLs = false
     groupByMonth = true
 
     # 是否开启十二生肖
-    chineseZodiac = true
+    chineseZodiac = false
 
     # 是否翻译年份（仅对年份标题有效）
     i18nYear = true
@@ -535,7 +536,7 @@ uglyURLs = false
 
     jsonLD = true
     openGraph = true
-    twitterCards = true
+    twitterCards = false
     # 注意：如果你设置 twitterCards 为 `true`，
     #      请务必开启 openGraph。否则，网页的
     #      Twitter Cards 信息将会不完整。
@@ -798,7 +799,7 @@ uglyURLs = false
     # 文章目录
 
     # 是否开启（全局设置）
-    enableTOC = false
+    enableTOC = true
     # 说明：文章的 Front Matter 中的 `toc`
     #      的优先级高于此处
 
@@ -1113,10 +1114,10 @@ uglyURLs = false
     # 文章分享
 
     # 是否开启
-    enablePostShare = true
+    enablePostShare = false
 
     # 是否显示（全局设置）
-    displayPostShare = true
+    displayPostShare = false
     # 说明：文章的 Front Matter 中的 `share`
     #      的优先级高于此处
 
@@ -1257,7 +1258,7 @@ uglyURLs = false
     #      https://busuanzi.ibruce.info/
 
     # 社交链接
-    enableSocials = true
+    enableSocials = false
     # 说明：见 data/Socials.toml
 
 
