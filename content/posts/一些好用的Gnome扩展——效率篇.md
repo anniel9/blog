@@ -17,7 +17,7 @@ GNOME是我最喜欢的Linux桌面环境，设计简约现代化，对触控板�
 
 ### 一些实用的GNOME扩展整理
 
-以下是我日常使用中感觉值得分享的一些扩展，都支持写这篇文章时最新的GNOME 42
+以下是我日常使用中感觉值得分享的一些扩展，都支持写这篇文章时最新的GNOME 42，点击扩展名可以直接跳转到对应网页
 
 #### **[AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)**
 
@@ -25,7 +25,7 @@ GNOME是我最喜欢的Linux桌面环境，设计简约现代化，对触控板�
 
 <!--当前的Ubuntu系统已经自带了一个类似扩展-->
 
-#### **[Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)**
+#### [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
 
 一个很实用的剪切板历史记录工具，在macOS下也有很多类似的工具
 
@@ -37,7 +37,7 @@ GNOME是我最喜欢的Linux桌面环境，设计简约现代化，对触控板�
 
 KDE Connect的GNOME版本，连接任何操作系统的手机或电脑，传输文件、推送消息等等，十分方便
 
-#### **[Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)**
+#### [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
 
 在状态栏管理可移动驱动器
 
@@ -45,11 +45,11 @@ KDE Connect的GNOME版本，连接任何操作系统的手机或电脑，传输�
 
 在状态栏显示键盘大小写锁定状态
 
-#### [Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/)
+#### **[Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/)**
 
 方便的截图工具
 
-#### [ddterm](https://extensions.gnome.org/extension/3780/ddterm/)
+#### **[ddterm](https://extensions.gnome.org/extension/3780/ddterm/)**
 
 一键从屏幕上方呼出终端窗口，非常实用
 
@@ -57,11 +57,11 @@ KDE Connect的GNOME版本，连接任何操作系统的手机或电脑，传输�
 
 在状态栏显示天气
 
-#### [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/)
+#### **[Todo.txt](https://extensions.gnome.org/extension/570/todotxt/)**
 
 一个状态栏的todo list工具，使用简单但功能强大
 
-#### **[Scroll Panel](https://extensions.gnome.org/extension/4257/scroll-panel/)**
+#### [Scroll Panel](https://extensions.gnome.org/extension/4257/scroll-panel/)
 
 通过鼠标滚动状态栏切换当前软件或工作区
 
@@ -69,18 +69,18 @@ KDE Connect的GNOME版本，连接任何操作系统的手机或电脑，传输�
 
 在状态栏管理Docker容器
 
-#### **[Undecorate Window](https://extensions.gnome.org/extension/1208/undecorate/)**
+#### [Undecorate Window](https://extensions.gnome.org/extension/1208/undecorate/)
 
 用ALT+空格呼出窗口菜单
 
-#### **[Git Monitor](https://extensions.gnome.org/extension/4925/git/)**
+#### [Git Monitor](https://extensions.gnome.org/extension/4925/git/)
 
 在状态栏监控git变化
 
-#### **[No overview at start-up](https://extensions.gnome.org/extension/4099/no-overview/)**
+#### [No overview at start-up](https://extensions.gnome.org/extension/4099/no-overview/)
 
 在系统启动时直接进入桌面
 
-#### **[Lunar Calendar 农历](https://extensions.gnome.org/extension/675/lunar-calendar/)**
+#### [Lunar Calendar 农历](https://extensions.gnome.org/extension/675/lunar-calendar/)
 
 在系统日历中显示农历
