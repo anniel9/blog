@@ -13,7 +13,7 @@ GNOME是我最喜欢的Linux桌面环境，设计简约现代化，对触控板�
 
 要安装扩展可以直接用命令行安装对应的软件包，但更简单的方式是在[GNOME Shell Extensions](https://extensions.gnome.org/)网站上管理，按照网站上的提示安装浏览器扩展后，就可以一键安装、更新、启用、删除扩展，也很方便查找需要的各种扩展。
 
-<!--如果使用最新的Ubuntu系统，在自带的Firefox浏览器中可能无法正常管理扩展，这是因为现在Ubuntu自带的Firefox是snap软件，没有足够的权限，可以自行查询解决方法或是安装非snap版Firefox或其他浏览器-->
+*如果使用最新的Ubuntu系统，在自带的Firefox浏览器中可能无法正常管理扩展，这是因为现在Ubuntu自带的Firefox是snap软件，没有足够的权限，可以自行查询解决方法或是安装非snap版Firefox或其他浏览器*
 
 ### 一些实用的GNOME扩展整理
 
@@ -23,7 +23,7 @@ GNOME是我最喜欢的Linux桌面环境，设计简约现代化，对触控板�
 
 在状态栏显示托盘应用程序，如果没有这个扩展，一些软件就没办法正常使用了
 
-<!--当前的Ubuntu系统已经自带了一个类似扩展-->
+*当前的Ubuntu系统已经自带了一个类似扩展*
 
 #### [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
 
